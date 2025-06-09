@@ -1,3 +1,5 @@
-# Ignora las siguientes carpetas
+# Ignora la siguiente carpeta
 node_modules
-practicaRuteo
+
+# Ignora el siguiente archivo
+.gitignore
